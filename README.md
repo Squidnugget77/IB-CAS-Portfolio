@@ -7,3 +7,4 @@ Using a combination of HTML, CSS, and JavaScript, this app will display my CAS P
 ## Features
 - Displays all CAS experiences during the junior and senior year.
 - Presents the CAS project reflection.
+- Shows all CAS interview reflections.
