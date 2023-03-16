@@ -5,9 +5,60 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Luca's CAS Portfolio</title>
+	<link rel = "stylesheet" href = "style.css">
 </head>
+<!-- Standard Bar Navigation -->
+<div class="topnav" id="myTopnav">
+	<a href="index.html" class="active">Home</a>
+	<a href="#project">CAS Project</a>
+	<div class="dropdown">
+	  <button class="dropbtn">Creativity
+		<i class="fa fa-caret-down"></i>
+	  </button>
+	  <div class="dropdown-content">
+		<a href="experience-12-2022.html">Making Sushi</a>
+		<a href="#">Link 2</a>
+		<a href="#">Link 3</a>
+	  </div>
+	</div>
+	<div class="dropdown">
+		<button class="dropbtn">Action
+		  <i class="fa fa-caret-down"></i>
+		</button>
+		<div class="dropdown-content">
+		  <a href="#">Link 1</a>
+		  <a href="#">Link 2</a>
+		  <a href="#">Link 3</a>
+		</div>
+	  </div>
+	  <div class="dropdown">
+		<button class="dropbtn">Service
+		  <i class="fa fa-caret-down"></i>
+		</button>
+		<div class="dropdown-content">
+		  <a href="#">Link 1</a>
+		  <a href="#">Link 2</a>
+		  <a href="#">Link 3</a>
+		</div>
+	  </div>
+	<a href="javascript:void(0);" class="icon" onclick="myFunction()">&#9776;</a>
+
+  </div>
+
+<script>
+function myFunction() {
+	var x = document.getElementById("myTopnav");
+	if (x.className === "topnav") {
+	x.className += " responsive";
+	} else {
+	x.className = "topnav";
+	}
+}
+</script>
+<!-- End Standard Bar Navigation -->
 <body>
     <h1>Hello!</h1>
     <a href="experience-12-2022.html">Creativity Experiences</a>
+	<a href="test.html">Testing</a>
 </body>
 </html>
