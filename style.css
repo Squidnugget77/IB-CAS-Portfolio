@@ -32,15 +32,29 @@
 }
 
 .sushi-text-container {
-	padding: none;
+	padding: 0;
 	margin: 0;
-	background-color: white;
+	background-color: #928EAB;
 }
 
 .cover-screen {
 	height: 100vh;
-	width: 100vw;
+	width: 99.34vw;
+	padding: 0;
+	margin: 0;
 
+}
+
+body {
+	padding: 0;
+	margin: 0;
+}
+
+.center {
+	text-align: center;
+	padding: 15%;
+	color: white;
+	text-size-adjust: 100000%;
 }
 /* -- SUSHI REFLECTION CLASSES END -- */
 
