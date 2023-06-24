@@ -14,4 +14,4 @@ Completes the CAS Portfolio requirement for the IB Diploma Program.
 ### Donating
 <a href="https://www.buymeacoffee.com/hWngk6y"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=xeroKun&button_colour=1696A3&font_colour=FFFFFF&font_family=Lato&outline_colour=000000&coffee_colour=ffffff" /></a>
 
-Each donation is greatly appreciated, thanks in advance!
+Each donation is greatly appreciated, but not expected. Thank you!
